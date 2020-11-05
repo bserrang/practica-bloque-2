@@ -7,4 +7,4 @@
 // Cada instancia de "User" se irá añadiendo en el array "users" con el método "push".
 // Una vez hayáis añadido todas las instancias al array de usuarios, ejecutad el método "showMeTheMoney" del tercer usuario "Roberto".
 
-let users = [];
+const users = [];
